@@ -1,6 +1,6 @@
 # Autonomous AI Agent for Algorithmic Discovery: A Case Study
 
-![ Where your words find their rhythm.](.github/assets/LyricalLabGithubBanner2.png 'Where your words find their rhythm.')
+![Where your words find their rhythm.](src/assets/banner.png "Where your words find their rhythm.")
 
 ### **Project Summary**
 
